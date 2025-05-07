@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrangeHRMTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27db889d21217b6b064339bd77feb4fb1d5f2efb")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrangeHRMTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrangeHRMTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

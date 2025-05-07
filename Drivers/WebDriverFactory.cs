@@ -6,7 +6,7 @@ namespace OrangeHRMTests.Drivers {
     public static class WebDriverFactory {
         public static IWebDriver CreateWebDriver() {
             var options = new ChromeOptions();
-            options.AddArgument("--headless");
+            // options.AddArgument("--headless");
             return new ChromeDriver(options);
         }
     }

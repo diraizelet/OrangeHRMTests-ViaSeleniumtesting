@@ -95,6 +95,7 @@ C:\Users\diraizelet\Downloads\OrangeHRMTests\OrangeHRMTests\obj\Debug\net8.0\Ora
 C:\Users\diraizelet\Downloads\OrangeHRMTests\OrangeHRMTests\obj\Debug\net8.0\OrangeHRMTests.AssemblyInfoInputs.cache
 C:\Users\diraizelet\Downloads\OrangeHRMTests\OrangeHRMTests\obj\Debug\net8.0\OrangeHRMTests.AssemblyInfo.cs
 C:\Users\diraizelet\Downloads\OrangeHRMTests\OrangeHRMTests\obj\Debug\net8.0\OrangeHRMTests.csproj.CoreCompileInputs.cache
+C:\Users\diraizelet\Downloads\OrangeHRMTests\OrangeHRMTests\obj\Debug\net8.0\OrangeHRMTests.sourcelink.json
 C:\Users\diraizelet\Downloads\OrangeHRMTests\OrangeHRMTests\obj\Debug\net8.0\OrangeHR.43F2309F.Up2Date
 C:\Users\diraizelet\Downloads\OrangeHRMTests\OrangeHRMTests\obj\Debug\net8.0\OrangeHRMTests.dll
 C:\Users\diraizelet\Downloads\OrangeHRMTests\OrangeHRMTests\obj\Debug\net8.0\refint\OrangeHRMTests.dll
